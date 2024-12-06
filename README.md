@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME: ธีร์จุฑา ก้อนสมบัติ
+# STUDENT ID: 670610708
